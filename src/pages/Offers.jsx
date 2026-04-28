@@ -112,9 +112,3 @@ export default function Offers() {
     </div>
   );
 }
-public/images/offer1.jpg
-public/images/offer2.jpg
-public/images/offer3.jpg
-public/images/offer4.jpg
-public/images/offer5.jpg
-public/images/offer6.jpg
