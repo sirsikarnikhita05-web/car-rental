@@ -15,6 +15,7 @@ export default function Navbar() {
             to={path}
             className={({ isActive }) =>
               `${linkClass} ${isActive ? "bg-secondary text-primary" : ""}`
+            
             }
           >
             {path === "/" ? "Home" : path.replace("/", "")}
@@ -24,3 +25,5 @@ export default function Navbar() {
     </nav>
   );
 }
+src/components/Navbar.jsx
+

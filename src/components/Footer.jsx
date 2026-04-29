@@ -12,7 +12,9 @@ export default function Footer() {
         <div>
           <h2 className="text-2xl font-bold mb-3">CarRental</h2>
           <p className="text-sm text-gray-200">
-            تجربه seamless car rentals with comfort and affordability.
+           <p>Experience seamless car rentals with comfort and affordability.</p>
+ 
+            {/* تجربه seamless car rentals with comfort and affordability. */}
             Book your ride anytime, anywhere.
           </p>
         </div>

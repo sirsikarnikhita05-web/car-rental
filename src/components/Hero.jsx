@@ -129,9 +129,3 @@ export default function Hero() {
     </div>
   );
 }
-public/images/
-
-hero1.jpg
-hero2.jpg
-hero3.jpg
-hero4.jpg

@@ -103,7 +103,3 @@ export default function HowItWorks() {
     </div>
   );
 }
-public/images/how1.jpg
-public/images/how2.jpg
-public/images/how3.jpg
-public/images/how4.jpg
